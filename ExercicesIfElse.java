@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicesIfElse {
+public class ExercicesIfElse {
     public static <string> void main(String[] args) {
         // EXERCICIOS USANDO IF-ELSE
         // EXERCICIO 01 - Fazer um programa para ler um número inteiro, e depois dizer
