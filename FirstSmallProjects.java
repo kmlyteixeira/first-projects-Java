@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class firstSmallProjects {
+public class FirstSmallProjects {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         int a, b, c, d, prodAB, prodCD, dif, mat, codPecUm, codPecDois, qntPecUm, qntPecDois;
