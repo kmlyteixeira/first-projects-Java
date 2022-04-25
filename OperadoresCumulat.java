@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class operadoresCumulat {
+public class OperadoresCumulat {
     public static void main(String[] args) {
         //EXERCICIO 01 - Uma operadora de telefonia cobra R$ 50.00 por um plano básico que
         //dá direito a 100 minutos de telefone. Cada minuto que exceder a
