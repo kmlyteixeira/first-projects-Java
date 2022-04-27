@@ -4,7 +4,7 @@ import java.util.Scanner;
 // 1º MAIOR VALOR Static - retorna valor a ser utilizado na Main
 // 2º MOSTRA RESULTADO Void - não retorna um valor 
 
-public class FuncaoStaticVoid {
+public class MetStaticVoid {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
